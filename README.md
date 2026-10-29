@@ -6,6 +6,8 @@ The objective of this lab was to create and verify a virtualized cybersecurity e
 ## Screenshot 1 – Virtual Machine Configuration
 
 
+<img width="1919" height="931" alt="Screenshot 2026-10-29 113015" src="https://github.com/user-attachments/assets/be40934b-1304-470f-9aa7-d59ff7ceda83" />
+
 
 ### Observation
 Oracle VirtualBox was successfully installed and configured. An Ubuntu 64-bit virtual machine named **Linux Ubuntu** was created and configured with 4096 MB of RAM, 4 virtual processors, and a 25 GB virtual hard disk. The machine was in a running state, indicating that the virtual environment was functioning correctly.
