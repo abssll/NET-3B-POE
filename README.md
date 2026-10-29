@@ -17,3 +17,18 @@ Virtualization allows multiple operating systems to run on a single physical com
 
 ## Conclusion
 The Ubuntu virtual machine was successfully configured and operational. The environment is ready for security analysis, packet capturing, and future CyberOps practical activities.
+
+## Screenshot 2 – Ubuntu Virtual Machine Login Screen
+
+
+<img width="844" height="634" alt="image" src="https://github.com/user-attachments/assets/bd613420-1247-4807-a519-0607146af1fc" />
+
+
+### Observation
+The Ubuntu virtual machine started successfully and displayed the Ubuntu login screen with available user accounts. This confirmed that the operating system had been installed correctly and was able to boot without errors.
+
+### Explanation
+Ubuntu Linux is used in cybersecurity and networking environments because it provides a stable platform for network analysis, security testing, and system administration. Running Ubuntu inside VirtualBox allows practical activities to be performed in an isolated environment without affecting the host operating system.
+
+### Result
+The Ubuntu virtual machine launched successfully and was ready for user authentication and further configuration.
