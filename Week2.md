@@ -28,3 +28,18 @@ The Internet Control Message Protocol (ICMP) is used for network diagnostics and
 
 ### Result
 The packet capture confirmed successful communication between the virtual machine and the external network. All requests received corresponding replies, indicating that the network connection was functioning correctly.
+
+## Screenshot 3 – DNS Traffic Analysis
+
+
+<img width="921" height="592" alt="image" src="https://github.com/user-attachments/assets/04af048f-38ec-48ee-bb69-4dddead80413" />
+
+
+### Observation
+DNS query and response packets were captured while accessing a website through the web browser. The packets show communication between the Ubuntu virtual machine and the DNS server at 8.8.8.8.
+
+### Explanation
+The Domain Name System (DNS) translates human-readable domain names into IP addresses. Before a website can be reached, the client must send a DNS query to obtain the IP address of the destination server.
+
+### Result
+The DNS server successfully processed the requests and returned valid responses, allowing web resources to be accessed successfully.
