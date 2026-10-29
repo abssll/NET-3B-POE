@@ -58,3 +58,9 @@ Transmission Control Protocol (TCP) provides reliable communication between devi
 
 ### Result
 The captured TCP packets confirmed successful communication between the client and remote systems. TCP traffic was successfully identified and analysed using Wireshark.
+
+## Conclusion
+
+The objective of this practical was successfully achieved. Wireshark was used to capture and analyse ICMP, DNS, and TCP traffic. The packet captures provided a better understanding of network communication processes and protocol behaviour.
+
+The skills learned in this practical are essential for cybersecurity professionals and Security Operations Centre (SOC) analysts who rely on packet analysis to monitor networks, investigate incidents, and identify potential security threats.
