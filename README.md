@@ -32,3 +32,18 @@ Ubuntu Linux is used in cybersecurity and networking environments because it pro
 
 ### Result
 The Ubuntu virtual machine launched successfully and was ready for user authentication and further configuration.
+
+## Screenshot 3 – Ubuntu Desktop
+
+
+<img width="838" height="519" alt="image" src="https://github.com/user-attachments/assets/343df81f-269e-4ed3-bf67-6b2a59b3ac59" />
+
+
+### Observation
+The Ubuntu desktop loaded successfully after authentication. The graphical user interface was fully operational, displaying the application dock, system controls, and desktop workspace.
+
+### Explanation
+The successful loading of the Ubuntu desktop confirms that the virtual machine is correctly configured and functioning. Ubuntu provides a secure and stable environment for networking, cybersecurity, and system administration tasks.
+
+### Result
+The virtual machine booted successfully and was ready for further configuration and network analysis activities.
