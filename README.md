@@ -1,4 +1,4 @@
-<img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/14d6d32b-8829-4bfb-b867-1fd4a070af25" /># Week 1 – CyberOps Lab Setup
+# Week 1 – CyberOps Lab Setup
 
 ## Objective
 The objective of this lab was to create and verify a virtualized cybersecurity environment using Oracle VirtualBox and Ubuntu Linux.
