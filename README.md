@@ -1,4 +1,4 @@
-# Week 1 – CyberOps Lab Setup
+<img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/14d6d32b-8829-4bfb-b867-1fd4a070af25" /># Week 1 – CyberOps Lab Setup
 
 ## Objective
 The objective of this lab was to create and verify a virtualized cybersecurity environment using Oracle VirtualBox and Ubuntu Linux.
@@ -68,6 +68,24 @@ The ping utility is used to test network connectivity and measure response times
 - Packets Received: 4
 - Packet Loss: 0%
 - Average Response Time: 8.533 ms
+
+  ## Screenshot 5 – Wireshark Installation and Verification
+
+
+ <img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/ffd5542b-e89f-4ff2-a1e0-452eb5bed308" />
+ 
+
+### Observation
+Wireshark was successfully installed and launched on the Ubuntu virtual machine. The application started correctly and displayed the available packet capture sources and monitoring options.
+
+### Explanation
+Wireshark is a network protocol analyzer used to capture and inspect network traffic in real time. It is one of the most commonly used tools by network administrators, security analysts, and SOC teams to troubleshoot network issues, investigate suspicious activity, and analyse packet data.
+
+### Result
+Wireshark launched successfully and is ready to capture and analyse network traffic generated within the virtual environment.
+
+### Importance in CyberOps
+A Security Operations Centre (SOC) analyst uses Wireshark to monitor communications, identify anomalies, investigate security incidents, and gain visibility into network activity. The successful installation ensures the lab environment is prepared for future packet analysis exercises.
 
 ### Conclusion
 The Ubuntu virtual machine has a stable and operational network connection, making it suitable for cybersecurity and network analysis activities.
