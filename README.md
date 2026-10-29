@@ -36,7 +36,8 @@ The Ubuntu virtual machine launched successfully and was ready for user authenti
 ## Screenshot 3 – Ubuntu Desktop
 
 
-<img width="838" height="519" alt="image" src="https://github.com/user-attachments/assets/343df81f-269e-4ed3-bf67-6b2a59b3ac59" />
+
+<img width="838" height="616" alt="image" src="https://github.com/user-attachments/assets/567d7a4c-1a0c-4b0c-b431-4991beec6a4e" />
 
 
 ### Observation
@@ -47,3 +48,21 @@ The successful loading of the Ubuntu desktop confirms that the virtual machine i
 
 ### Result
 The virtual machine booted successfully and was ready for further configuration and network analysis activities.
+
+## Screenshot 4 – Network Connectivity Verification
+
+### Observation
+A connectivity test was performed using the ping command to verify communication between the Ubuntu virtual machine and an external network host. Four ICMP echo requests were sent to 8.8.8.8 and all four responses were received successfully.
+
+### Explanation
+The ping utility is used to test network connectivity and measure response times between devices. The successful replies indicate that the virtual machine has a functioning network connection and can communicate with external hosts over the Internet.
+
+### Results
+- Packets Sent: 4
+- Packets Received: 4
+- Packet Loss: 0%
+- Average Response Time: 8.533 ms
+
+### Conclusion
+The Ubuntu virtual machine has a stable and operational network connection, making it suitable for cybersecurity and network analysis activities.
+
