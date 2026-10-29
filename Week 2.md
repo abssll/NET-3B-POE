@@ -43,3 +43,18 @@ The Domain Name System (DNS) translates human-readable domain names into IP addr
 
 ### Result
 The DNS server successfully processed the requests and returned valid responses, allowing web resources to be accessed successfully.
+
+## Screenshot 4 – TCP Traffic Analysis
+
+
+<img width="986" height="583" alt="image" src="https://github.com/user-attachments/assets/ff194dd7-5cf3-4901-9433-86c8f2e6f1b5" />
+
+
+### Observation
+TCP packets were captured during communication between the Ubuntu virtual machine and external network resources. The packet capture displayed source and destination addresses as well as TCP communication details.
+
+### Explanation
+Transmission Control Protocol (TCP) provides reliable communication between devices on a network. TCP establishes connections, ensures data is delivered correctly, and manages acknowledgements and retransmissions when necessary.
+
+### Result
+The captured TCP packets confirmed successful communication between the client and remote systems. TCP traffic was successfully identified and analysed using Wireshark.
