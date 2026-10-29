@@ -37,7 +37,9 @@ The Ubuntu virtual machine launched successfully and was ready for user authenti
 
 
 
-<img width="838" height="616" alt="image" src="https://github.com/user-attachments/assets/567d7a4c-1a0c-4b0c-b431-4991beec6a4e" />
+
+<img width="831" height="517" alt="image" src="https://github.com/user-attachments/assets/dea39574-6701-43fb-b96d-91572350a744" />
+
 
 
 ### Observation
@@ -50,6 +52,10 @@ The successful loading of the Ubuntu desktop confirms that the virtual machine i
 The virtual machine booted successfully and was ready for further configuration and network analysis activities.
 
 ## Screenshot 4 – Network Connectivity Verification
+
+
+<img width="788" height="609" alt="image" src="https://github.com/user-attachments/assets/c22a5ff9-c953-47f5-a377-77413042f86d" />
+
 
 ### Observation
 A connectivity test was performed using the ping command to verify communication between the Ubuntu virtual machine and an external network host. Four ICMP echo requests were sent to 8.8.8.8 and all four responses were received successfully.
